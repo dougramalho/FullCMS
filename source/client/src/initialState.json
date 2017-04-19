@@ -1,0 +1,230 @@
+{
+	{
+		"App": {
+			"Configs": [
+				{
+					"Name": "Geral",
+					"Title": "",
+					"Google" "":
+				},
+				{
+					"Name": "Network",
+					"Facebook": "",
+					"Youtube": "",
+					"Twitter": "",
+					"Plus": "",
+					"Instagram": "",
+					"Flickr": ""
+				}
+			]
+		},
+		"BannerPrincipal": [
+			{
+				"Imagem": "",
+				"Link": "",
+				"Show": false
+			}
+		],
+		"BannerFlutuante": {
+			"Imagem": "",
+			"Link": "",
+			"Show": false
+		},
+		"VeiculosNovos" : [
+			{
+				"Model": "",
+				"Brand": "",
+				"Year": "",
+				"Price": 0,
+				"ItensEspecificacao": []
+			}
+		],
+		"SemiNovos": [
+			{
+				"City": "Palmas",
+				"State": "Tocantins",
+				"Cars": [
+					{
+						"Model": "",
+						"Brand": "",
+						"Year": "",
+						"Price": 0,
+						"ItensEspecificacao": []
+					}
+				]
+			},
+			{
+				"City": "Brasília",
+				"State": "Distrito Federal",
+				"Cars": [
+					{
+						"Model": "",
+						"Brand": "",
+						"Year": "",
+						"Price": 0,
+						"ItensEspecificacao": []
+					}
+				]
+			},
+		],
+		"Noticias": [
+			{
+				"Title": "",
+				"Description": ""
+			}
+		],
+		"Servicos": {
+			"Configs": [
+				{
+					"Name": "Geral",
+					"Title": "",
+					"Description": "",
+					"Tags": ""
+				},
+				{
+					"Name": "Images",
+					"LateralGalery": [],
+					"MainGalery": []
+				},
+				{
+					"Name": "Content",
+					"Description": ""
+				}
+			]
+		},
+		"Vendedores": [
+			{
+				"Name":
+			}
+		],
+		"EntregaMagica": [
+			{
+				"Name": "Geral",
+				"Cliente": "",
+				"Foto": "",
+				"Description": ""
+			}
+		],
+		"PecasAcessorios": {
+			"Titulo": "",
+			"DescriptionBanner": "",
+			"DescricaoLateral": ""
+		},
+		"Seguro": {
+			"Configs": [
+				{
+					"Name": "Geral",
+					"Title": "",
+					"Description": "",
+					"Tags": ""
+				},
+				{
+					"Name": "Images",
+					"LateralGalery": [],
+					"MainGalery": []
+				},
+				{
+					"Name": "Content",
+					"Description": ""
+				}
+			]
+		},
+		"Consorcio": {
+			"Configs": [
+				{
+					"Name": "Geral",
+					"Title": "",
+					"Description": "",
+					"Tags": ""
+				},
+				{
+					"Name": "Images",
+					"LateralGalery": [],
+					"MainGalery": []
+				},
+				{
+					"Name": "Content",
+					"Description": ""
+				}
+			]
+		},
+		"Institucional": {
+			"Configs": [
+				{
+					"Name": "Geral",
+					"Title": "",
+					"Description": "",
+					"Tags": ""
+				},
+				{
+					"Name": "Images",
+					"LateralGalery": [],
+					"MainGalery": []
+				},
+				{
+					"Name": "Content",
+					"Description": ""
+				}
+			]
+		},
+		"Contato":[
+			"Configs": [
+				{
+					"Name": "Geral",
+					
+					"Tags": ""
+				},
+				{
+					"Name": "Histórico",
+					"LateralGalery": [],
+					"MainGalery": []
+				}
+			]
+		]
+	},
+	{
+		"App": {
+			"Configs": [
+				{
+					"Name": "Geral",
+					"Title":,
+					"Google":
+				}
+			]
+		},
+		"BannersRotativos": [
+			{
+				"Imagem": "",
+				"Link": "",
+				"Show": false
+			},
+			{
+				"Imagem": "",
+				"Link": "",
+				"Show": false
+			}
+		],
+		"BannersLaterais":[
+			{
+				"Imagem": "",
+				"Link": "",
+				"Show": false
+			},
+			{
+				"Imagem": "",
+				"Link": "",
+				"Show": false
+			}
+		],
+		"QuemSomos": {
+			"Title": "",
+			"Description": ""
+		},
+		"FaleConosco": []
+	},
+	{
+		"Fething": false,
+		"Selected": null
+	}
+		//need ui states like ui : {       uiState1 : {},        uiState2 : {},   }
+}
