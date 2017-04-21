@@ -1,230 +1,237 @@
 {
 	{
-		"App": {
-			"Configs": [
+		"app": {
+			"configs": [
 				{
-					"Name": "Geral",
-					"Title": "",
-					"Google" "":
+					"name": "Geral",
+					"title": "",
+					"google" "":
 				},
 				{
-					"Name": "Network",
-					"Facebook": "",
-					"Youtube": "",
-					"Twitter": "",
-					"Plus": "",
-					"Instagram": "",
-					"Flickr": ""
+					"name": "Network",
+					"facebook": "",
+					"youtube": "",
+					"twitter": "",
+					"plus": "",
+					"instagram": "",
+					"flickr": ""
 				}
 			]
 		},
-		"BannerPrincipal": [
+		"mainBanner": [
 			{
-				"Imagem": "",
-				"Link": "",
-				"Show": false
+				"image": "",
+				"link": "",
+				"show": false
 			}
 		],
-		"BannerFlutuante": {
-			"Imagem": "",
-			"Link": "",
-			"Show": false
+		"floatBanner": {
+			"image": "",
+			"link": "",
+			"show": false
 		},
-		"VeiculosNovos" : [
+		"newVehicles" : [
 			{
-				"Model": "",
-				"Brand": "",
-				"Year": "",
-				"Price": 0,
-				"ItensEspecificacao": []
+				"model": "",
+				"description": "",
+				"brand": "",
+				"year": "",
+				"price": 0,
+				"specificationItens": [
+					{
+						"name": ""
+					}
+				]
 			}
 		],
-		"SemiNovos": [
+		"usedVehicles": [
 			{
-				"City": "Palmas",
-				"State": "Tocantins",
-				"Cars": [
+				"city": "Palmas",
+				"state": "Tocantins",
+				"cars": [
 					{
-						"Model": "",
-						"Brand": "",
-						"Year": "",
-						"Price": 0,
-						"ItensEspecificacao": []
+						"model": "",
+						"description": "",
+						"brand": "",
+						"year": "",
+						"price": 0,
+						"specificationItens": []
 					}
 				]
 			},
 			{
-				"City": "Brasília",
-				"State": "Distrito Federal",
-				"Cars": [
+				"city": "Brasília",
+				"state": "Distrito Federal",
+				"cars": [
 					{
-						"Model": "",
-						"Brand": "",
-						"Year": "",
-						"Price": 0,
-						"ItensEspecificacao": []
+						"model": "",
+						"description": "",
+						"brand": "",
+						"year": "",
+						"price": 0,
+						"specificationItens": []
 					}
 				]
 			},
 		],
-		"Noticias": [
+		"news": [
 			{
-				"Title": "",
-				"Description": ""
+				"title": "",
+				"description": ""
 			}
 		],
-		"Servicos": {
-			"Configs": [
+		"services": {
+			"configs": [
 				{
-					"Name": "Geral",
-					"Title": "",
-					"Description": "",
-					"Tags": ""
+					"name": "Geral",
+					"title": "",
+					"description": "",
+					"tags": ""
 				},
 				{
-					"Name": "Images",
-					"LateralGalery": [],
-					"MainGalery": []
+					"name": "Images",
+					"lateralGalery": [],
+					"mainGalery": []
 				},
 				{
-					"Name": "Content",
-					"Description": ""
+					"name": "Content",
+					"description": ""
 				}
 			]
 		},
-		"Vendedores": [
+		"sellers": [
 			{
-				"Name":
+				"name":
 			}
 		],
-		"EntregaMagica": [
+		"magicDelivery": [
 			{
-				"Name": "Geral",
-				"Cliente": "",
-				"Foto": "",
-				"Description": ""
+				"name": "Geral",
+				"cliente": "",
+				"foto": "",
+				"description": ""
 			}
 		],
-		"PecasAcessorios": {
-			"Titulo": "",
-			"DescriptionBanner": "",
-			"DescricaoLateral": ""
+		"toolsAcessories": {
+			"titulo": "",
+			"descriptionBanner": "",
+			"lateralDescription": ""
 		},
-		"Seguro": {
-			"Configs": [
+		"insurance": {
+			"configs": [
 				{
-					"Name": "Geral",
-					"Title": "",
-					"Description": "",
-					"Tags": ""
+					"name": "Geral",
+					"title": "",
+					"description": "",
+					"tags": ""
 				},
 				{
-					"Name": "Images",
-					"LateralGalery": [],
-					"MainGalery": []
+					"name": "Images",
+					"lateralGalery": [],
+					"mainGalery": []
 				},
 				{
-					"Name": "Content",
-					"Description": ""
+					"name": "Content",
+					"description": ""
 				}
 			]
 		},
-		"Consorcio": {
-			"Configs": [
+		"consortium": {
+			"configs": [
 				{
-					"Name": "Geral",
-					"Title": "",
-					"Description": "",
-					"Tags": ""
+					"name": "Geral",
+					"title": "",
+					"description": "",
+					"tags": ""
 				},
 				{
-					"Name": "Images",
-					"LateralGalery": [],
-					"MainGalery": []
+					"name": "Images",
+					"lateralGalery": [],
+					"mainGalery": []
 				},
 				{
-					"Name": "Content",
-					"Description": ""
+					"name": "Content",
+					"description": ""
 				}
 			]
 		},
-		"Institucional": {
-			"Configs": [
+		"institutional": {
+			"configs": [
 				{
-					"Name": "Geral",
-					"Title": "",
-					"Description": "",
-					"Tags": ""
+					"name": "Geral",
+					"title": "",
+					"description": "",
+					"tags": ""
 				},
 				{
-					"Name": "Images",
-					"LateralGalery": [],
-					"MainGalery": []
+					"name": "Images",
+					"lateralGalery": [],
+					"mainGalery": []
 				},
 				{
-					"Name": "Content",
-					"Description": ""
+					"name": "Content",
+					"description": ""
 				}
 			]
 		},
-		"Contato":[
-			"Configs": [
+		"contact":[
+			"configs": [
 				{
-					"Name": "Geral",
+					"name": "Geral",
 					
-					"Tags": ""
+					"tags": ""
 				},
 				{
-					"Name": "Histórico",
-					"LateralGalery": [],
-					"MainGalery": []
+					"name": "Histórico",
+					"lateralGalery": [],
+					"mainGalery": []
 				}
 			]
 		]
 	},
 	{
-		"App": {
-			"Configs": [
+		"app": {
+			"configs": [
 				{
-					"Name": "Geral",
-					"Title":,
-					"Google":
+					"name": "Geral",
+					"title":,
+					"google":
 				}
 			]
 		},
-		"BannersRotativos": [
+		"rotativeBanners": [
 			{
-				"Imagem": "",
-				"Link": "",
-				"Show": false
+				"imagem": "",
+				"link": "",
+				"show": false
 			},
 			{
-				"Imagem": "",
-				"Link": "",
-				"Show": false
+				"imagem": "",
+				"link": "",
+				"show": false
 			}
 		],
-		"BannersLaterais":[
+		"lateralBanners":[
 			{
-				"Imagem": "",
-				"Link": "",
-				"Show": false
+				"imagem": "",
+				"link": "",
+				"show": false
 			},
 			{
-				"Imagem": "",
-				"Link": "",
-				"Show": false
+				"imagem": "",
+				"link": "",
+				"show": false
 			}
 		],
-		"QuemSomos": {
+		"whoWeAre": {
 			"Title": "",
 			"Description": ""
 		},
-		"FaleConosco": []
+		"talkToUs": []
 	},
 	{
-		"Fething": false,
-		"Selected": null
+		"fething": false,
+		"selected": null
 	}
 		//need ui states like ui : {       uiState1 : {},        uiState2 : {},   }
 }
